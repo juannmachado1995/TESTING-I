@@ -1,0 +1,14 @@
+Grupo 6
+
+Ivan Amarillo Lozada
+Juan Mercado
+Daniel Pascutti
+Juan Machado
+
++ Uno de los niveles seria funcional, ya que esta prueba nos permite testear la funcionalidad del sistema y poder observar como funcionan,
+si se adapta a los requerimientos del cliente, y como interctuan con el mismo los usuarios.
+Incluye prueba de sanidad, aceptacion y de sistema.
+
++ Otra de las pruebas es NO FUNCIONAL, nos permitira comprobar que la aplicacion por ejemplo sea responsive.
+Esta prueba detecta otro tipo de problemas, que no se puede observar en pruebas funcionales, ya que el sistema ya se encuentra funcionando.
+Por ejemplo, que los colores permitan una legibilidad, o en caso de ComidasYa!, que no es responsive para mobile.
